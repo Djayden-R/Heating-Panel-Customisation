@@ -39,12 +39,12 @@ To install the firmware use a program like Thonny IDE and upload all of the file
 
 | Item | Description | Amount | Already owned | Cost (€) | Cost (US$) | URL | Image |
 |------|-------------|--------|---------------|----------|------------|-----|-------|
-| ESP32 C3 Mini | ESP module | 1 | no | 2.99 | 3.52 | <https://nl.aliexpress.com/item/1005010612626337.html> | ![ESP32 C3 Mini](Images/BOM/ESP32-C3-Mini.avif) |
+| ESP32 C3 Mini | ESP module | 1 | no | 2.99 | 3.52 | <https://nl.aliexpress.com/item/1005010612626337.html> | ![ESP32 C3 Mini](Images/BOM/ESP32-C3-Mini.jpg) |
 | SSD1306 LCD | 4 pin serial LCD | 1 | no | 2.10 | 2.47 | <https://nl.aliexpress.com/item/1005010446208996.html> | ![LCD Screen](Images/BOM/SSD161306-LCD.webp) |
 | DHT20 Sensor | Temperature and humidity sensor | 1 | no | 1.16 | 1.37 | <https://nl.aliexpress.com/item/1005006337702724.html> | ![DHT20](Images/BOM/DHT20.webp) |
 | EC11 Encoder | Rotary encoder with push button | 1 | no | 1.27 | 1.50 | <https://nl.aliexpress.com/item/1005008773438800.html> | ![EC11](Images/BOM/EC11.webp) |
 | Female plug | Internal plug to power ESP | 1 | no | 1.69 | 1.99 | <https://www.gamma.nl/assortiment/handson-contrastekker-zwart/p/B275982> | ![Female Plug](Images/BOM/Female-Plug.jpg) |
-| Relay (230 AC 25A) | Solid-state relay (3V trigger) | 1 | no | 3.37 | 3.97 | <https://nl.aliexpress.com/item/1005006782419296.html> | ![Relay](Images/BOM/Relay.avif) |
+| Relay (230 AC 25A) | Solid-state relay (3V trigger) | 1 | no | 3.37 | 3.97 | <https://nl.aliexpress.com/item/1005006782419296.html> | ![Relay](Images/BOM/Relay.jpg) |
 | DC Rocker Switch | Simple small DC switch | 1 | yes | - | - | - | ![DC Switch](Images/BOM/DC-Switch.jpg) |
 | Terminal block | Like a WAGO, but cheap | 2 | yes | - | - | - | ![Terminal Block](Images/BOM/Terminal-Block.webp) |
 | AC and DC wires | ~2.5m AC + DC wiring | - | yes | - | - | - | ![Wires](Images/BOM/wires.png) |
