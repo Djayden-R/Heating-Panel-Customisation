@@ -29,13 +29,23 @@ Below is a GIF showing the process of putting the device together. Some steps ar
 
 ![Assembly Instruction](Images/Assembly.gif)
 
+## How to install firmware
+
+The firmware isn't done at the time of writing, but as soon as I am done testing I will update the ```device.py```
+
+To install the firmware use a program like Thonny IDE and upload all of the files ending in ```.py``` inside the Firmware folder and rename ```Device.py``` to main.py
+
 ## BOM
 
-- ESP32 C3 Mini
-- 0.96 inch serial OLED screen
-- DHT20 Temperature and Humidity sensor
-- EC11 Rotary Encoder
-- DC rocker switch
-- Solid-State Relay (25 Amp 230 AC)
-- 2 x push-in terminal blocks
-- Female plug for mains power
+| Item | Description | Amount | Already owned | Cost (€) | Cost (US$) | URL | Image |
+|------|-------------|--------|---------------|----------|------------|-----|-------|
+| ESP32 C3 Mini | ESP module | 1 | no | 2.99 | 3.52 | <https://nl.aliexpress.com/item/1005010612626337.html> | ![ESP32 C3 Mini](Images/BOM/ESP32-C3-Mini.avif) |
+| SSD1306 LCD | 4 pin serial LCD | 1 | no | 2.10 | 2.47 | <https://nl.aliexpress.com/item/1005010446208996.html> | ![LCD Screen](Images/BOM/SSD161306-LCD.webp) |
+| DHT20 Sensor | Temperature and humidity sensor | 1 | no | 1.16 | 1.37 | <https://nl.aliexpress.com/item/1005006337702724.html> | ![DHT20](Images/BOM/DHT20.webp) |
+| EC11 Encoder | Rotary encoder with push button | 1 | no | 1.27 | 1.50 | <https://nl.aliexpress.com/item/1005008773438800.html> | ![EC11](Images/BOM/EC11.webp) |
+| Female plug | Internal plug to power ESP | 1 | no | 1.69 | 1.99 | <https://www.gamma.nl/assortiment/handson-contrastekker-zwart/p/B275982> | ![Female Plug](Images/BOM/Female-Plug.jpg) |
+| Relay (230 AC 25A) | Solid-state relay (3V trigger) | 1 | no | 3.37 | 3.97 | <https://nl.aliexpress.com/item/1005006782419296.html> | ![Relay](Images/BOM/Relay.avif) |
+| DC Rocker Switch | Simple small DC switch | 1 | yes | - | - | - | ![DC Switch](Images/BOM/DC-Switch.jpg) |
+| Terminal block | Like a WAGO, but cheap | 2 | yes | - | - | - | ![Terminal Block](Images/BOM/Terminal-Block.webp) |
+| AC and DC wires | ~2.5m AC + DC wiring | - | yes | - | - | - | ![Wires](Images/BOM/wires.png) |
+| Phone charger | ESP power supply | 1 | yes | - | - | - | ![Charger](Images/BOM/charger.jpg) |
