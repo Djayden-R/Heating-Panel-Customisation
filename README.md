@@ -31,11 +31,13 @@ Below is a GIF showing the process of putting the device together. Some steps ar
 
 ## How to install firmware
 
-The firmware isn't done at the time of writing, but as soon as I am done testing I will update the ```device.py```
+> The firmware isn't done at the time of writing, but as soon as I am done testing I will update the ```device.py```
 
 To install the firmware use a program like Thonny IDE and upload all of the files ending in ```.py``` inside the Firmware folder and rename ```Device.py``` to main.py
 
 ## BOM
+
+> USD prices are at the time of writing, use  a currency converter for more accurate USD prices
 
 | Item | Description | Amount | Already owned | Cost (€) | Cost (US$) | URL | Image |
 |------|-------------|--------|---------------|----------|------------|-----|-------|
