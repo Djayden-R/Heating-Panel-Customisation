@@ -1,0 +1,11 @@
+Item,Description,Amount,Cost (€),Cost (US$),Already owned,URL
+ESP32 C3 Mini,ESP module,1,2.99,3.52,no,https://nl.aliexpress.com/item/1005010612626337.html
+SSD1306 LCD,4 pin serial LCD,1,2.10,2.47,no,https://nl.aliexpress.com/item/1005010446208996.html
+DHT20 Sensor,Temperature and humidity sensor,1,1.16,1.37,no,https://nl.aliexpress.com/item/1005006337702724.html
+EC11 Encoder,Rotary encoder with push button,1,1.27,1.50,no,https://nl.aliexpress.com/item/1005008773438800.html
+Female plug,An internal plug to provide power to the ESP,1,1.69,1.99,no,https://www.gamma.nl/assortiment/handson-contrastekker-zwart/p/B275982
+Relay (230 AC 25 Amp),A solid-state relay that can be switch with 3 volt,1,3.37,3.97,no,https://nl.aliexpress.com/item/1005006782419296.html
+DC Rocker Switch,Simple small DC switch,1,-,-,yes,-
+Terminal block,"Like a WAGO, but cheap",2,-,-,yes,-
+AC and DC wires,"About 2,5 meter of wires for AC power and some wire for DC",-,-,-,yes,-
+Phone charger,The powersupply for the ESP (don't forget a USB-C cable),1,-,-,yes,-
