@@ -14,7 +14,9 @@ The device consists of an ESP, a relay, and a temperature sensor. And for user i
 
 ![Wiring schematic](Images/Electrical_Schematics.png)
 
-The ESP will sense the temperature in the room and turn on a relay that is connected to the heater if it is under the requested temperature. The ESP is powered from a USB powerbrick inside the heating panel.
+The ESP will sense the temperature in the room and turn on a relay that is connected to the heater if it is under the requested temperature. The ESP is powered from a USB powerbrick inside the heating panel. I made a schematic with pictures of the components, but it isn't that clear.
+
+![Witing with pictures](Images/Wiring_schematics_with_pictures.png)
 
 The device's clip (see image below) can be placed on the ridge of the heating panel and be secured with bolts. There will have to be a hole drilled in the heating panel, through which the charging cable and cabel for the relay will be placed.
 
