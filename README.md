@@ -12,11 +12,9 @@ My parents asked me if I could make something that would automatically turn off 
 
 The device consists of an ESP, a relay, and a temperature sensor. And for user input it also has a switch for turning the device on and off, a rotary encoder for setting the temperature, and an LCD showing the current temperature, set temperature and status. The wiring can be seen below.
 
-![Device wiring schematic](Images/Device_Wiring_Schematics.png)
+![Wiring schematic](Images/Electrical_Schematics.png)
 
-The ESP will sense the temperature in the room and turn on a relay that is connected to the heater if it is under the requested temperature. The ESP is powered from a socket that is going to be placed inside of the heating panel. See the schematic below.
-
-![Heating panel Schematic](Images/Electrical_Schematics.png)
+The ESP will sense the temperature in the room and turn on a relay that is connected to the heater if it is under the requested temperature. The ESP is powered from a USB powerbrick inside the heating panel.
 
 The device's clip (see image below) can be placed on the ridge of the heating panel and be secured with bolts. There will have to be a hole drilled in the heating panel, through which the charging cable and cabel for the relay will be placed.
 
