@@ -6,7 +6,7 @@ This ESP-based device is an upgrade for a heating panel that lacks a thermostat,
 
 ## Why did I make it?
 
-My parents asked me if I could make something that would automatically turn off a heating panel if it reached a certain temperature. So I started this project to make a device that would do that and integrated with Home Assistant (because why not?).
+My parents asked me if I could make something that would automatically turn off a heating panel if it reached a certain temperature. So that is what I set out to make.
 
 ## How does it work
 
@@ -23,6 +23,8 @@ The device's clip (see image below) can be placed on the ridge of the heating pa
 ![Sideview of device](Images/Full_Device_Sideview.png)
 ![Heating panel's ridge](Images/Heating_Panel_Back.jpg)
 
+I have made a short video demonstrating the finished project, you can find it [here](https://www.youtube.com/watch?v=DKDE-mrpqO4)
+
 ## How to assemble the device
 
 Below is a GIF showing the process of putting the device together. Some steps are left out, like installing the outlet, connecting the ESP to it, connecting the relay inside the heating panel and to the ESP.
@@ -31,9 +33,13 @@ Below is a GIF showing the process of putting the device together. Some steps ar
 
 ## How to install firmware
 
-> The firmware isn't done at the time of writing, but as soon as I am done testing I will update the ```device.py```
+The firmware is made for a micropython device, so if your device doesn't have micropython yet you should install that first.
 
 To install the firmware use a program like Thonny IDE and upload all of the files ending in ```.py``` inside the Firmware folder and rename ```Device.py``` to main.py
+
+The program should then just run on boot.
+
+Also sidenote, the whole ```Device.py``` code is AI-generated, so if you are curious to see how it works you can take a look at it, but you won't find anything interesting.
 
 ## BOM
 
